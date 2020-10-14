@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+}
+
+form {
+    display: inline;
+}
+
+.ulmedecin li {
+    height: 50px;
+}
+
+li:hover {
+    background-color: gainsboro;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
